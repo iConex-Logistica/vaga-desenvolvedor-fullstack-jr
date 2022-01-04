@@ -39,7 +39,7 @@ Experiência com Desenvolvimento em:
 - CLT Full
 
 # Como se candidatar
-Para se candidatar, faça um fork deste repositório, desenvolva o projeto abaixo e coloque-o online para testes.
+Para se candidatar, faça um fork deste repositório, desenvolva o projeto abaixo e envie o link do seu repositório ou o projeto para o email: ti@iconexlog.com.br.
 
 ## iOnex Gestão Web
 Este é o portal onde os gestores de nossa organização poderão acompanhar o rendimento de suas empresas.
