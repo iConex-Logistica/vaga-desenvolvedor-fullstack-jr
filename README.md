@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.iconexlog.com.br/assets/img/logos/logobranca.png" alt="iConex" width="230" />
+  <img src="http://www.iconexlog.com.br/assets/img/logos/logopreta.png" alt="iConex" width="230" />
 </p>
 
 # Vaga Desenvolvedor FullStack Jr
