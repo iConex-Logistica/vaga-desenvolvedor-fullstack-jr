@@ -67,7 +67,7 @@ Para que tudo isso funcione, precisaremos criar:
 
 A API deve controlar o login, e todas as demais rotas devem ser acessíveis apenas com um token JWT.
 
-Após a finalização, você pode encaminhar o link do repositório e/ou repositórios para pedro@iconexlog.com.br
+Após a finalização, você pode encaminhar o link do repositório e/ou repositórios para ti@iconexlog.com.br
 
 ### Avaliação
 
