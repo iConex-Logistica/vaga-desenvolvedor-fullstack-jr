@@ -27,6 +27,7 @@ Experiência com Desenvolvimento em:
 ## Diferencial
 - Conhecimento em Java, para manutenção de sistema legado.
 - Chackra-ui.
+- Typescript.
 
 ## Benefícios
 - Plano de Saúde e Odontológico
